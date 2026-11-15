@@ -1,0 +1,22 @@
+{
+  "wheel_id": 905,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-155",
+  "project": "retaining-walls-newcastle-e2951682041c2df1ebe6b887125a6777b940d",
+  "parent_t1_ref": "retainingwallnewcastle-010",
+  "node_role": "buffer",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining walls newcastle",
+  "intended_url": "https://sitesau.github.io/retainingwallnewcastle-155/",
+  "tier": "T2",
+  "writeback_nonce": "23bf54a4a479d7ea",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-walls-newcastle/",
+      "anchor": "https://cloudsites-hub.pages.dev/sites-01/retaining-walls-newcastle/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
